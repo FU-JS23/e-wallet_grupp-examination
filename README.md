@@ -51,7 +51,7 @@ Här har ni en mockup över färdiga appen.
 * Att ni sparar korten och alla nya kort som läggs till i local storage samt läsa från local storage
 * Att det går att ta bort ett kort (som också tas bort från local storage)
 * Fälten när ett kort läggs till ska valideras så du i fältet kortnummer enbart kan mata in siffror och max är 16 siffror. Fältet för namn ska enbart ta bokstäver.
-* Att ni visar på att ni tydligt och konstruktivt kan läsa förstå och ge feedback på någon del av era gruppmedlemmars kod.
+* Att ni visar på att ni tydligt och konstruktivt kan läsa förstå och ge feedback på utvald del av era gruppmedlemmars kod.
 
 ## Inlämning
 
