@@ -44,7 +44,7 @@ Här har ni en mockup över färdiga appen.
 * Att det är en single page application (SPA) som använder ```react-router```
 * Att ni använder modulär styling när ni stylar applikationen med SASS
 * Att ni samarbetar i grupparbetet i par -och eller gruppprogrammering och tar ägandeskap över er del
-(med fördel kan ni ha dagliga scrummöten med updates och retrospectives)
+* (Med fördel kan ni ha dagliga scrummöten med updates och retrospectives men inte ett krav)
 
 **Väl godkänt:**
 * Allt i godkänt
