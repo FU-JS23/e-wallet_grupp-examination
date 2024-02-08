@@ -55,5 +55,5 @@ Här har ni en mockup över färdiga appen.
 
 ## Inlämning
 
-Inlämning sker senast _23 feb 23.59_ via en länk till DITT githubrepo med denna namngivningskonvention: namn_klassår_gruppnamn_projektnamn ex. john-doe_FU-JS23_<gruppnamn>_grupp-examination på Azomo.
+Inlämning sker senast _23 feb 23.59_ via en länk till DITT githubrepo med denna namngivningskonvention: namn_klassår_gruppnamn_projektnamn ex. john-doe_FU-JS23_gruppnamn_e-wallet på Azomo.
 
