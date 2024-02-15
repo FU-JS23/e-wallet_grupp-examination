@@ -9,7 +9,6 @@ Tekniker du ska använda i denna app är följande:
 * Components
 * Props
 * Hooks
-* Es6 map(), filter() methods
 * react-router
 * LocalStorge ( VG )
 
@@ -40,7 +39,7 @@ Här har ni en mockup över färdiga appen.
 
 **Godkänt**
 * Att ni gjort uppgiften med ```vite react```
-* Att ni skapat uppgiften enligt Figma skissen (så pixel perfekt som möjligt)
+* Att ni designat uppgiften enligt Figma deisgn
 * Att det är en single page application (SPA) som använder ```react-router```
 * Att ni använder modulär styling när ni stylar applikationen med SASS
 * Att ni samarbetar i grupparbetet i par -och eller gruppprogrammering och tar ägandeskap över er del
