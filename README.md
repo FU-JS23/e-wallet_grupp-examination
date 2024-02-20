@@ -14,7 +14,7 @@ Tekniker du ska använda i denna app är följande:
 
 ## Funktionella krav
 
-### /
+### /cards
 * Viewn ska högst upp visa *active card*.
 
 * Vid tryck på **Add new card** ska man routas vidare till ```/addcard```.
